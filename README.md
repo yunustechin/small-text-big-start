@@ -1,4 +1,4 @@
 def Techin():
-    print("Hoşgeldin Techin!")
+    print("Welcome Techin!")
 
 Techin()
