@@ -1,2 +1,4 @@
-# small-text-big-start
-small text big start
+def Techin():
+    print("Hoşgeldin Techin!")
+
+Techin()
